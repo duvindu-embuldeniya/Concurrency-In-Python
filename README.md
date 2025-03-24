@@ -34,4 +34,3 @@
 
 You can run the main.py script to observe the difference between multi-threading and multi-processing in action. As the script executes, you'll see how each approach handles tasks differently, helping you understand their impact on performance and efficiency.
 
-## "If there are environment variables, make sure to adjust them according to your setup before running the program."
