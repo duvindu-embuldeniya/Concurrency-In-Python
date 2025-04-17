@@ -8,7 +8,7 @@ class ImageDownloader(Thread):
         self.urls = urls
         self.queue = queue
         self.success_count = 0
-    
+     
     
     def run(self):
         self.count = 0

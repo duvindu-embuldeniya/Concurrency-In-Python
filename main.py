@@ -13,7 +13,7 @@ if __name__ == "__main__":
         url = f"https://picsum.photos/id/{i}/200/300"
         url_lst1.append(url)
 
-    url_lst2 = []
+    url_lst2 = [] 
     for i in range(0, len(url_lst1), 10):
         urls = url_lst1[i:i+10]
         url_lst2.append(urls)
