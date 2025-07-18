@@ -32,5 +32,6 @@
    ```bash
    pip install -r requirements.txt
 
+**You can run the main.py script to observe the difference between multi-threading and multi-processing in action. As the script executes, you'll see how each approach handles tasks differently, helping you understand their impact on performance and efficiency.**
 
 
